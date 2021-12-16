@@ -1,11 +1,11 @@
 # Site settings
-title: Kali Blog
-SEOTitle: Kali 的小站
+title: Gur Blog
+SEOTitle: 孤榕 的小站
 header-img: img/post-bg-desk.jpg
-email: kalierincn@outlook.com
-description: "中立最好，学校最坏."
-keyword: "Kali Blog, Kali的小站"
-url: "https://kalicn.github.io"          # your host, for absolute URL
+email: 574751750@qq.com
+description: "春蚕到死丝方尽，蜡炬成灰泪始干."
+keyword: "孤榕 Blog, 孤榕的小站"
+url: "https://x574751750.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code repository
 
